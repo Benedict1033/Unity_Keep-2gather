@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "169811765045",
+    "project_id": "keep-2gather-77767",
+    "firebase_url":"https://keep-2gather-77767-default-rtdb.firebaseio.com/",
+    "storage_bucket": "keep-2gather-77767.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169811765045:android:c8e66a201d10b75c664e7c",
+        "android_client_info": {
+          "package_name": "com.BenCompony.Keep2gather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169811765045-dhmjgn3hp0dopkgo9f7n00g6gbr7hn9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDis1C34NXUUsOYcOk7k-e4XmI8-1ttCg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169811765045-dhmjgn3hp0dopkgo9f7n00g6gbr7hn9j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "169811765045-nnhi0iue3t326dfpfudk43ubjs7ek1m8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.BenCompony.Keep2gather"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
